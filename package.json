@@ -1,0 +1,23 @@
+{
+  "name": "example-browserify",
+  "version": "1.0.0",
+  "description": "Small canvas library for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblayton/example-browserify"
+  },
+  "keywords": [
+    "html5",
+    "javascript"
+  ],
+  "author": "Rob Layton <hire@roblayton.com> (http://www.roblayton.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roblayton/example-browserify/issues"
+  },
+  "homepage": "https://github.com/roblayton/example-browserify"
+}
