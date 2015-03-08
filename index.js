@@ -1,6 +1,8 @@
 'use strict';
 
-var utils = require('../example-node-karma-gulp/src/utils');
+//var utils = require('../example-node-karma-gulp/src/utils');
+var utils = require('example-node-karma-gulp').utils;
+
 
 var arr = [1,2,3,4];
 document.write("<p>Original arrays contains: " + arr.join() + "</p>");
